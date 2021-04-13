@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #184d47;
+}
+
+#game {
+  padding: 40px 0;
+  width: 50%;
+  text-align: center;
+  margin: 5rem auto;
+  border-radius: 10px;
+  background-color: #96bb7c;
+}
+
+#game h5 {
+  color: green;
+  margin-top: 30px;
+}
+
+#game h6 {
+  margin-top: 30px;
+  color: red;
+}
+
+#game input {
+  margin-top: 30px;
+  outline: none;
+  width: 50%;
+  border: 1px solid blue;
+  padding: 20px 10px;
+  border-radius: 6px;
+}
+
+#game button {
+  border: 1px solid #184d47;
+  background-color: #81b214;
+  width: 50%;
+  padding: 15px 0;
+  color: #fff;
+  width: 50%;
+  border-radius: 6px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
